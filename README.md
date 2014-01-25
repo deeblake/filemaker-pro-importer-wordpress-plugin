@@ -33,4 +33,10 @@ FilemakerProImporter.class.php - PHP class file used by plugin file. This file c
 filemaker-pro-importer.zip - contains all plugin files. Use this file to install the plugin on your Wordpress site.
 <br />
 
+<h2>Credits and Notes</h2>
+Dee Blake - Developer - http://deeblake.com/
+
+This plugin was developed for a project of The Rare Studio (http://www.therarestudio.com/) in Los Angeles, CA.
+
+
 
