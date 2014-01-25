@@ -1,5 +1,5 @@
 <h1>Filemaker Pro Importer - Wordpress Plugin</h1>
-Filemaker Pro Importer is a Wordpress Pluging that imports a Filemaker Pro tab file (exported from Filemaker Pro), and associated images.
+Filemaker Pro Importer is a Wordpress Plugin that imports a Filemaker Pro tab file (exported from Filemaker Pro), and associated images.
 
 <h2>Specfics</h2>
 This plugin was developed specifically for an artist website. 
